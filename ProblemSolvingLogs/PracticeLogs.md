@@ -8,3 +8,5 @@
 |4|https://www.hackerrank.com/challenges/counting-valleys|https://gist.github.com/james-pb-git/6f88a1eb0aea154db9f3de5cd5ef70ce|20210304|
 |5|https://www.hackerrank.com/challenges/jumping-on-the-clouds|https://gist.github.com/james-pb-git/dabd537749e1becea96a60f9ced4f8f1|20210308|
 |6|https://www.hackerrank.com/challenges/repeated-string|https://gist.github.com/james-pb-git/4d70486c24c097bd0b86efa25994bbd0|20210308|Used IntStream API|
+|7|https://www.hackerrank.com/challenges/2d-array|https://gist.github.com/james-pb-git/3b58959bc637f00e3b24a2be1d0897a4|20210320|
+|8|https://www.hackerrank.com/challenges/ctci-array-left-rotation|https://gist.github.com/james-pb-git/ed2e152a5e9c15cbb50eaebac40b9a61|20210320|
