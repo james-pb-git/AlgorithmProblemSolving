@@ -10,3 +10,4 @@
 |6|https://www.hackerrank.com/challenges/repeated-string|https://gist.github.com/james-pb-git/4d70486c24c097bd0b86efa25994bbd0|20210308|Used IntStream API|
 |7|https://www.hackerrank.com/challenges/2d-array|https://gist.github.com/james-pb-git/3b58959bc637f00e3b24a2be1d0897a4|20210320|
 |8|https://www.hackerrank.com/challenges/ctci-array-left-rotation|https://gist.github.com/james-pb-git/ed2e152a5e9c15cbb50eaebac40b9a61|20210320|
+|9|https://www.hackerrank.com/challenges/new-year-chaos|https://gist.github.com/james-pb-git/d7ef94cb2ed00a529a2fb90f98864fda|20210321|inline - hard|
