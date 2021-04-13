@@ -1,10 +1,10 @@
-package pers.james.algorithm.hackerrank.warmup;
+package pers.james.algorithm.hackerrank.interviewprep.warmup;
 
 import java.util.stream.IntStream;
 
 /**
  * Created by bopang on 2021-04-13.
- * https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
+ * https://www.hackerrank.com/challenges/repeated-string/problem
  */
 public class RepeatedString {
 

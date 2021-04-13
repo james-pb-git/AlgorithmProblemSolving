@@ -1,4 +1,4 @@
-package pers.james.algorithm.hackerrank.warmup;
+package pers.james.algorithm.hackerrank.interviewprep.warmup;
 
 import java.io.*;
 import java.math.*;
@@ -15,7 +15,7 @@ import static java.util.stream.Collectors.toList;
 
 /**
  * Created by bopang on 2021-04-13.
- * https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
+ * https://www.hackerrank.com/challenges/counting-valleys/problem
  */
 public class CountingValleys {
 
