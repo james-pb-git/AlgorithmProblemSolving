@@ -2,7 +2,7 @@ package pers.james.algorithm.hackerrank.interviewprep.arrays;
 
 /**
  * Created by bopang on 2021-04-13.
- * https://www.hackerrank.com/challenges/new-year-chaos/problem
+ * https://www.hackerrank.com/challenges/new-year-chaos
  */
 public class NewYearChaos {
 

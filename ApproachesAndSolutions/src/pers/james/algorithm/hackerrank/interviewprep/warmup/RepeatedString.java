@@ -4,7 +4,7 @@ import java.util.stream.IntStream;
 
 /**
  * Created by bopang on 2021-04-13.
- * https://www.hackerrank.com/challenges/repeated-string/problem
+ * https://www.hackerrank.com/challenges/repeated-string
  */
 public class RepeatedString {
 

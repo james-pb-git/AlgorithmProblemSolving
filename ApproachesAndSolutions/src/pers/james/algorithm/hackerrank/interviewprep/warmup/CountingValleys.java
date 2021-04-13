@@ -12,10 +12,9 @@ import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
-
 /**
  * Created by bopang on 2021-04-13.
- * https://www.hackerrank.com/challenges/counting-valleys/problem
+ * https://www.hackerrank.com/challenges/counting-valleys
  */
 public class CountingValleys {
 

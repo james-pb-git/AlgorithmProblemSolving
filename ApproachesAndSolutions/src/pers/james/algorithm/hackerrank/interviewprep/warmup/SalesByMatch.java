@@ -10,7 +10,7 @@ import java.util.regex.*;
 
 /**
  * Created by bopang on 2021-04-13.
- * https://www.hackerrank.com/challenges/sock-merchant/problem
+ * https://www.hackerrank.com/challenges/sock-merchant
  */
 public class SalesByMatch {
 

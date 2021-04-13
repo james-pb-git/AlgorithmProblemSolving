@@ -2,7 +2,7 @@ package pers.james.algorithm.hackerrank.interviewprep.arrays;
 
 /**
  * Created by bopang on 2021-04-13.
- * https://www.hackerrank.com/challenges/2d-array/problem
+ * https://www.hackerrank.com/challenges/2d-array
  */
 public class TwoDimensionalArray {
 

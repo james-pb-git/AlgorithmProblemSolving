@@ -2,7 +2,7 @@ package pers.james.algorithm.hackerrank.interviewprep.warmup;
 
 /**
  * Created by bopang on 2021-04-13.
- * https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
+ * https://www.hackerrank.com/challenges/jumping-on-the-clouds
  */
 public class JumpingOnTheClouds {
 
