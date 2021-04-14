@@ -9,3 +9,8 @@
 - 0320 https://www.hackerrank.com/challenges/ctci-array-left-rotation
 - 0321 https://www.hackerrank.com/challenges/new-year-chaos
 - 0413 https://www.hackerrank.com/challenges/minimum-swaps-2
+- 0414 https://www.hackerrank.com/challenges/crush
+
+
+- 0414 https://www.hackerrank.com/challenges/two-strings
+- 0414 https://www.hackerrank.com/challenges/sherlock-and-anagrams
