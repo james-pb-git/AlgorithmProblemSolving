@@ -14,3 +14,5 @@
 
 - 0414 https://www.hackerrank.com/challenges/two-strings
 - 0414 https://www.hackerrank.com/challenges/sherlock-and-anagrams
+- 0420 https://www.hackerrank.com/challenges/ctci-ransom-note
+- 0420 https://www.hackerrank.com/challenges/count-triplets-1
