@@ -16,3 +16,7 @@
 - 0414 https://www.hackerrank.com/challenges/sherlock-and-anagrams
 - 0420 https://www.hackerrank.com/challenges/ctci-ransom-note
 - 0420 https://www.hackerrank.com/challenges/count-triplets-1
+- 0421 https://www.hackerrank.com/challenges/frequency-queries
+- 0421 https://www.hackerrank.com/challenges/ctci-bubble-sort
+- 0421 https://www.hackerrank.com/challenges/mark-and-toys
+- 0421 https://www.hackerrank.com/challenges/ctci-comparator-sorting
