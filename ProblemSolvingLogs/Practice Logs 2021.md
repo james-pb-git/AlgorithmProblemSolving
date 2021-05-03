@@ -21,3 +21,7 @@
 - 0421 https://www.hackerrank.com/challenges/mark-and-toys
 - 0421 https://www.hackerrank.com/challenges/ctci-comparator-sorting
 - 0421 https://www.hackerrank.com/challenges/fraudulent-activity-notifications
+- 0503 https://leetcode.com/problems/remove-outermost-parentheses/
+
+
+- 0503 https://leetcode.com/problems/divisor-game/
