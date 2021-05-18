@@ -27,3 +27,5 @@
 ---
 
 - 0503 https://leetcode.com/problems/divisor-game/
+- 0518 https://leetcode.com/problems/duplicate-zeros/
+- 0518 https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/
